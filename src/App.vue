@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
-import HelloWorldMultiple from './components/HelloWorldMultiple.vue'
+import HelloWorld from 'src/components/HelloWorld.vue'
+import HelloWorldMultiple from 'src/components/HelloWorldMultiple.vue'
 </script>
 
 <template>

@@ -1,10 +1,10 @@
-<script lang="ts">
+<script>
   export default {
     inheritAttrs: false,
   };
 </script>
 
-<script setup lang="ts">
+<script setup>
   defineProps({ msg: String });
 </script>
 
